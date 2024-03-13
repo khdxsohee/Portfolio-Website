@@ -42,7 +42,7 @@ h1, h2, h3 {
 }
 
 .project img {
-    max-width: 100%;
+    max-width: 30%;
     height: auto;
 }
 
@@ -104,7 +104,7 @@ footer {
     color: #fff;
     text-align: center;
     padding: 20px 0;
-    position: fixed;
+    position: Flex;
     bottom: 0;
     width: 100%;
 }
